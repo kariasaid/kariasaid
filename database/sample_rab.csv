@@ -1,0 +1,8 @@
+No,Kode,Uraian,Satuan,Volume,Harga Satuan
+1,A.1.1.1,Galian tanah biasa sedalam 1 m,m3,150,85000
+2,A.1.1.2,Urugan kembali tanah galian,m3,80,45000
+3,B.1.1.1,Beton ready mix fc 20 MPa,m3,45,1250000
+4,B.2.1.1,Pembesian tulangan beton,kg,3200,15000
+5,C.1.1.1,Pasangan bata 1/2 batu,m2,280,95000
+6,C.1.2.1,Plesteran 1:4 tebal 15 mm,m2,280,42000
+7,,Pekerjaan yang tidak ada di AHSP,m2,10,50000
